@@ -1,0 +1,11 @@
+.caution {
+    text-align:center;
+    margin:0 auto;
+    font-size:30px;
+}
+button {
+    background-color:rgb(29, 135, 235);
+    border: solid 1px rgb(29, 135, 235);
+    padding:10px;
+    border-radius:10px;
+}
